@@ -1153,7 +1153,8 @@ p {
 }
 
 .footer p:hover{
- color:#CC8C18;   
+ color:#CC8C18;  
+  marging-left:3px;
 }
 .footer .contact-info {
   display: flex;

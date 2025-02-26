@@ -1120,6 +1120,7 @@ p {
   line-height: 1.6;
 }
 
+
 .footer ul {
   list-style: none;
   padding: 0;
@@ -1151,7 +1152,7 @@ p {
   color: #CC8C18;
 }
 
-footer h5+p:hover{
+.footer p:hover{
  color:#CC8C18;   
 }
 .footer .contact-info {

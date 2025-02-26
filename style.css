@@ -1151,6 +1151,9 @@ p {
   color: #CC8C18;
 }
 
+footer h5+p:hover{
+ color:#CC8C18;   
+}
 .footer .contact-info {
   display: flex;
   align-items: center;
